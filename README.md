@@ -18,7 +18,7 @@
 
 ## نحوه اجرا
 
-1.  فایل `main.py` و `README.md` را در یک پوشه با نام `Calculate_app` قرار دهید (همانطور که در تصویر نشان داده شده است).
+1.  فایل `main.py` و `README.md` را در یک پوشه با نام `Calculate_app` قرار دهید git clone https://github.com/Matin11m/Calulate_app.git
 2.  به دایرکتوری پروژه (`Calculate_app`) در ترمینال یا خط فرمان بروید:
 
     ```bash
